@@ -63,41 +63,40 @@ Allowed 24 hrs for DNS propagation
 
 ##  **Project Screenshots **
 
-- VM Provisioning
-![Create Resource Group](images/01_VM_Provision_create_resource_group.png)
-![Boot Diagnostics Disabled](images/01_boot_diagnosis_disabled.png)
-![Username & Password Setup](images/01_create_password_username.png)
-![VM Deployment](images/01_deployed_vm.png)
-![Navigate to Resource Group](images/01_go_to_resourcegroup.png)
-![Azure Login](images/01_login_azure.png)
-![Review & Create VM](images/01_review_create_vm.png)
+-VM Provisioning
+![Create Resource Group](01_VM_Provision_create_resource_group.png)
+![Boot Diagnostics Disabled](01_boot_diagnosis_disabled.png)
+![Username & Password Setup](01_create_password_username.png)
+![VM Deployment](01_deployed_vm.png)
+![Navigate to Resource Group](01_go_to_resourcegroup.png)
+![Azure Login](01_login_azure.png)
+![Review & Create VM](01_review_create_vm.png)
 
-- SSH Connection to Linux Server
-![Open PuTTY & Enter IP](images/02_SSH_Connection_open_putty_enter_public_ip.png)
-![PuTTY Login](images/02_putty_login.png)
-![PuTTY Username & Password](images/02_putty_login_username_password.png)
-![Run apt update](images/02_run_apt_update.png)
-![Run apt upgrade](images/02_run_apt_upgrade.png)
-![Switch root user](images/02_sudo_su_root.png)
+-SSH Connection to Linux Server
+![Open PuTTY & Enter IP](02_SSH_Connection_open_putty_enter_public_ip.png)
+![PuTTY Login](02_putty_login.png)
+![Username & Password Login](02_putty_login_username_password.png)
+![Run apt update](02_run_apt_update.png)
+![Run apt upgrade](02_run_apt_upgrade.png)
+![Switch to root user](02_sudo_su_root.png)
 
-- Apache Installation & Website Setup
-![Apache Installation](images/03_apache_installation_install_apache.png)
-![Copy HTML Template](images/03_copy_html_content_from_tooplate.png)
-![Delete Default HTML Content](images/03_delete_default_HTML_content.png)
-![HTML Content Updated](images/03_html_content.png)
-![Open index.html](images/03_open_index_html.png)
-![Allow Port 80](images/03_networ_change_port.png)
+-Apache Installation & Website Setup
+![Apache Installation](03_apache_instalalion_install_apache.png)
+![HTML Content Updated](03_copy_html_content_from_too_plate.png)
+![Delete Default HTML](03_delete_default_HTML_content.png)
+![Open index.html](03_open_index_html.png)
+![Allow Port 80](03_networ_change_port.png)
+![Final HTML Content](03_html_content.png)
 
-- DNS & Custom Domain Configuration
-![DNS Propagation Check](images/04_DNS_propogation_check.png)
-![Add A Record VM IP](images/04_add_recordset_vm_public_ip.png)
-![Copy Azure Nameservers](images/04_copy_Azure_nameservers.png)
-![Create DNS Zone](images/04_create_azure_DNZ_zone.png)
-![DNS Record Creation Review](images/04_review_create_DNS.png)
-![Update Nameservers in Hostinger](images/04_update_NS_in_hostinger.png)
-![Custom Domain Purchase](images/04_custom_domain_domain_dashboard_purch.png)
-![Nameserver Changed](images/04_nameserver_changed.png)
-![Final DNS Setup](images/04_create_DNS.png)
+-DNS & Custom Domain Configuration
+![DNS Propagation Check](04_DNS_propogation_check.png)
+![Add A Record VM IP](04_add_recordset_vm_public_ip.png)
+![Copy Azure Nameservers](04_copy_Azure_nameservers.png)
+![Create DNS Zone](04_create_azure_DNZ_zone.png)
+![Custom Domain Purchase](04_custom_domain_domain_dashboard_purchase.png)
+![Nameserver Changed](04_nameserver_changed.png)
+![Review DNS Setup](04_review_create_DNS.png)
+![Update Nameservers in Hostinger](04_update_NS_in_hostinger.png)
 
 
 # **Skills Gained**
@@ -116,4 +115,5 @@ Project Completed ✔
 Website successfully mapped to custom domain:
 
 www.yusuiba.shop
+
 
